@@ -1,5 +1,7 @@
 # Azure Functionapp for QR Generator
 
+All the related files are in the repo 
+
 1. Download the below software for windows:
 ```
 .NET 6
