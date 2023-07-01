@@ -51,19 +51,19 @@ func start --csharp
 
 9. Now in the Azure portal go to the Function APP
 
-Select the subscription, resource group
-
-Now give a name for the function
-
-Runtime stack - .NET
-
-Version - 6
-
-OS - Windows 
-
-Plan Type - Consumption(Serverless)
-
-Create the function
+    Select the subscription, resource group
+    
+    Now give a name for the function
+    
+    Runtime stack - .NET
+    
+    Version - 6
+    
+    OS - Windows 
+    
+    Plan Type - Consumption(Serverless)
+    
+    Create the function
 
 ![AZ_PORTAL](https://github.com/Pavan-1997/Azure_Functionapp_QR/assets/32020205/7663d1f4-b4f5-41c2-94c1-6db0d5ca2c51)
 
