@@ -68,12 +68,12 @@ func start --csharp
 ![AZ_PORTAL](https://github.com/Pavan-1997/Azure_Functionapp_QR/assets/32020205/7663d1f4-b4f5-41c2-94c1-6db0d5ca2c51)
 
 
-8. Now go to the VS Code cmd publish the function to Azure
+10. Now go to the VS Code cmd publish the function to Azure
 
 func azure functionapp publish <azure-functionapp-name> --nozip --csharp
 
 
-9. Access the app globally from the URL generated and test it
+11. Access the app globally from the URL generated and test it
 
 ![AZURE_FUNC](https://github.com/Pavan-1997/Azure_Functionapp_QR/assets/32020205/b2c6b50a-33ef-4edd-a38e-926e4b189113)
 
