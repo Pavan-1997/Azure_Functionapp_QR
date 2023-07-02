@@ -10,14 +10,12 @@ Azure Functions Core Tools
 
 Azure CLI Tools
 ```
-URL -> ```https://github.com/Pavan-1997/Azure_Functionapp_QR.git```
 
 Use version commands to check if the tools are installed in the cmd
 
-
 2. Clone the Repo
 ```
-  git clone https://github.com/JeremyMorgan/QRCode-Generator-Azure-Function.git
+https://github.com/Pavan-1997/Azure_Functionapp_QR.git
 ```
 
 3. Open VS Code and browse the cloned project and install the plugins below:
