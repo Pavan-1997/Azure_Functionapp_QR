@@ -10,7 +10,7 @@ Azure Functions Core Tools
 
 Azure CLI Tools
 ```
-URL -> ```https://www.allhandsontech.com/programming/dotnet/how-to-qr-code-generator-azure-functions/```
+URL -> ```https://github.com/Pavan-1997/Azure_Functionapp_QR.git```
 
 Use version commands to check if the tools are installed in the cmd
 
